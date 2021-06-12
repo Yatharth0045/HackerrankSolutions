@@ -1,5 +1,7 @@
 ## Looping with Numbers
 
+**Hackerrank Problem:** [Looping with Numbers](https://www.hackerrank.com/challenges/bash-tutorials---looping-with-numbers/problem)
+
 #### How to run
 ```
 ./Solution.sh

@@ -1,5 +1,7 @@
 ## Arithmetic Operator
 
+**Hackerrank Problem:** [Arithmetic Operations](https://www.hackerrank.com/challenges/bash-tutorials---arithmetic-operations/problem)
+
 #### How to run
 ```
 ./Solution.sh

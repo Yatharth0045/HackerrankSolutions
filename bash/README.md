@@ -2,6 +2,19 @@
 
 We have the solutions for the following:
 
+
+- [Let's Echo](./LetsEcho/README.md)
+- [Looping and Skipping](./LoopingAndSkipping/README.md)
+- [A Personalized Echo](./APersonalizedEcho/README.md)
+- [Looping with Numbers](./LoopingWithNumbers/README.md)
+- [The World of Numbers](./TheWorldOfNumbers/README.md)
+- [Comparing Numbers](./ComparingNumbers/README.md)
+- [Getting started with conditionals](./GettingStartedWithConditionals/README.md)
+- [More on Conditionals](./MoreOnConditionals/README.md)
+- [Arithmetic Operations](./ArithmeticOperations/README.md)
+- [Compute the Average](./ComputeTheAverage/README.md)
+
+
 - [Let's Echo](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem)
 - [Looping and Skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem)
 - [A Personalized Echo](https://www.hackerrank.com/challenges/bash-tutorials---a-personalized-echo/problem)

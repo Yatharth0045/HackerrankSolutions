@@ -1,5 +1,7 @@
 ## Looping and Skipping
 
+**Hackerrank Problem:** [Looping and Skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem)
+
 #### How to run
 ```
 ./Solution.sh
