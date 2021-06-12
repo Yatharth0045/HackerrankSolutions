@@ -7,5 +7,4 @@ do
     read X;
     sum=$(( $sum + $X ))
 done
-# echo $sum && echo $N
 printf "%.3f" $(bc -l <<< $sum/$N)
